@@ -11,4 +11,4 @@ Pins **0** and **1** are not tested because they must be used to upload the self
 
 ##### Note 2:
 
-Pin **27** is not tested because it is a pin not utilized in the RAMPS 1.4 3D printer shield.
+Pin **27** is not tested because it is a pin not utilized in the RAMPS 1.4 3D printer shield and instead is utilized to blink the indicator LED.
