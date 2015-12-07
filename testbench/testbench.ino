@@ -144,7 +144,7 @@ void setup() {
         Serial.print(pinReading);        
 
         //Report if pin passed or not
-        if((pinReading > 2.4)&&(pinReading < 2.6)){
+        if((pinReading > 2.4)){
           Serial.print("     --GOOD--SOURCES CURRENT--"); 
           digitalPin = pins[thisPin];
         }else{
